@@ -13,9 +13,9 @@ import { Auth } from '@/components/screens/auth/Auth'
 import Profile from '@/components/screens/Profile/Profile'
 import Explorer from '@/components/screens/Explorer/Explorer'
 import Favorites from '@/components/screens/Favorites/Favorites'
-import Search from '@/components/screens/search/search'
-import Category from '@/components/screens/categori/Categori'
+import Category from '@/components/screens/category/Category'
 import Product from '@/components/screens/product/Product'
+import Search from '@/components/screens/search/Search'
 
 export const routes: IRoute[] = [
 	{ 

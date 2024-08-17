@@ -1,5 +1,6 @@
 
 import { IProduct } from "@/types/product.interface";
+import { convertPrice } from "@/utils/convertPrice";
 import { FC } from "react";
 import { Text, View } from "react-native";
 
