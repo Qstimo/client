@@ -1,6 +1,7 @@
 import { FC } from 'react'
 import { Text, View } from 'react-native'
 
+import { convertPrice } from '@/utils/convertPrice'
 
 import { IProductComponent } from '../product-page.interface'
 
